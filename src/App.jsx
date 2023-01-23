@@ -77,6 +77,7 @@ function App() {
              deleteTask={deleteTask}
              toggleTask={toggleTask}
              enterEditMode={enterEditMode}
+             boang ka charles karlo wew sdad
            />
         
         )}
